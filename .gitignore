@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+build/
+.dart_tool/
+
+# env files (VERY IMPORTANT)
+.env
+*.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+android/.gradle/
+android/app/build/
+
+# backend
+airtime_backend/node_modules/
+node_modules/
+.env
+*.env
+build/
+.dart_tool/
+android/.gradle/
+ios/Pods/
